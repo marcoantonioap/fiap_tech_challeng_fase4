@@ -1,0 +1,32 @@
+{
+  "best_model": "random_forest",
+  "classes": [
+    "Insufficient_Weight",
+    "Normal_Weight",
+    "Obesity_Type_I",
+    "Obesity_Type_II",
+    "Obesity_Type_III",
+    "Overweight_Level_I",
+    "Overweight_Level_II"
+  ],
+  "results": [
+    {
+      "model": "extra_trees",
+      "cv_accuracy_mean": 0.9431279221422265,
+      "cv_accuracy_std": 0.002900912512234743,
+      "test_accuracy": 0.9385342789598109,
+      "test_f1_macro": 0.9381165026624263
+    },
+    {
+      "model": "random_forest",
+      "cv_accuracy_mean": 0.9792660906135366,
+      "cv_accuracy_std": 0.005858838677977704,
+      "test_accuracy": 0.9692671394799054,
+      "test_f1_macro": 0.9689643681048932
+    }
+  ],
+  "test_sample_size": 423,
+  "test_accuracy": 0.9692671394799054,
+  "test_f1_macro": 0.9689643681048932,
+  "max_probability_mean": 0.8387234042553191
+}
