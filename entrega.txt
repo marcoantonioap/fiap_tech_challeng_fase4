@@ -1,7 +1,3 @@
-Link da aplicação no Streamlit:
+Link da aplicação no Streamlit: https://fiaptechchallengfase4-k5twx3cfeny9fijkkuqdx6.streamlit.app/
 
-Link do painel analítico:
-
-Link do repositório GitHub:
-
-Link do vídeo de apresentação:
+Link do repositório GitHub: https://github.com/marcoantonioap/fiap_tech_challeng_fase4/blob/main/app/streamlit_app.py
