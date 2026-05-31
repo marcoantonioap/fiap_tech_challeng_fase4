@@ -33,7 +33,3 @@ streamlit run app/streamlit_app.py
 2. Acessar o Streamlit Community Cloud.
 3. Criar um app apontando para `app/streamlit_app.py`.
 4. Confirmar que `requirements.txt`, `data/`, `models/` e `reports/` estão versionados.
-
-## Entregáveis
-
-O arquivo `entrega.txt` deve ser preenchido com os links finais do app, painel e repositório.
